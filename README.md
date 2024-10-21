@@ -1,4 +1,4 @@
-#Pandemic Data Dashboards#
+#Pandemic Data Dashboards
 This was a fun experiment to use some of MySQL knowledge and Tableau
 
 The data from the Pandemic of 2019 was analyzed and summarized into 4 comprehansible dashboards.
